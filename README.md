@@ -2,6 +2,7 @@
 
 2D platform game
 Include tutorial, first level and first boss.
+
 Player need to think fast and build a strategy to evade the obstacles, and later defeat the boss.
 
 
